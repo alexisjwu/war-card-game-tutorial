@@ -1,6 +1,6 @@
 # War Card Game Xcode Tutorial
 
-First Xcode project built using [CodeWithChris](https://youtu.be/lIxq4TCdlRU)
+First Xcode project built using follow along online tutorial [CodeWithChris](https://youtu.be/lIxq4TCdlRU)
 
 Last updated: June 06, 2020 by Alexis Wu
 
